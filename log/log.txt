@@ -2,3 +2,12 @@ w00-170206-16-LR-About: Introduction to Operating System, From: Lecturer
 w00-170206-16-LR-About: Introduction to Operating System, From: Lecturer
 w00-170206-17-LR-About: Introduction to Operating System, From: Lecturer
 w00-170206-17-LR-About: Introduction to Operating System, From: Scele ARSIP
+w01-170211-09-PS-About: Basic Scripting, From: Scele, tugas week01
+w01-170211-09-PS-About: Basic Scripting, From: Scele, tugas week01
+w01-170211-10-PS-About: Basic Scripting, From: Scele, tugas week01
+w01-170212-09-PS-About: Basic Scripting, From: Scele, tugas week01
+w01-170212-09-PS-About: Basic Scripting, From: google
+w01-170214-16-LR-About: Free Software, From: Lecturer
+w01-170214-16-LR-About: Free Software, From: Lecturer
+w01-170214-17-LR-About: Basic Scripting, From: Lecturer
+w01-170214-17-LR-About: Basic Scripting, From: Lecturer

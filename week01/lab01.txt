@@ -20,3 +20,4 @@ drwxr-xr-x  2 jessica.naraiswari StafCS 4096 Feb 11 21:56 week09
 drwxr-xr-x  2 jessica.naraiswari StafCS 4096 Feb 11 21:56 week10
 drwxr-xr-x  2 jessica.naraiswari StafCS 4096 Feb 11 21:58 xtra
 /home/fasilkom/mahasiswa/j/jessica.naraiswari/os171/week01
+Today is 14 Feb 2017 at 22:11:26

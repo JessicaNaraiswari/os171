@@ -7,3 +7,5 @@ w02-170220-15-PS-About: Privacy Matters, Encryption and Digital Signature using 
 w02-170221-16-LR-About: Protection-Security, From: Lecturer
 w02-170221-16-LR-About: Protection-Security, From: Lecturer
 w02-170221-17-LR-About: Protection-Security, From: Lecturer
+w02-170222-22-LR-About: GnuPG, From: http://www.webhostingtalk.com/showthread.php?t=96244
+w02-170222-22-LR-About: GnuPG, From: https://www.gnupg.org/
